@@ -8,11 +8,11 @@
 ---
 <h3 id="tech">🛠️ Tecnologias:</h3>
 
-* [NodeJS](#)
-* [Typescript](#)
-* [PostgreSQL](#)
-* [Prisma](#)
-* [JWT](#)
+* [NodeJS](https://nodejs.org/)
+* [Typescript](https://www.typescriptlang.org/)
+* [PostgreSQL](https://www.postgresql.org/)
+* [Prisma](https://www.prisma.io/)
+* [JWT](https://jwt.io/)
 
 ---
-<h5 align="center">Desenvolvido por <a href="https://www.linkedin.com/in/henrique-vuolo-santana/">Henrique Vuolo</a> 🧔</h4>
+<h4 align="center">Desenvolvido por <a href="https://www.linkedin.com/in/henrique-vuolo-santana/">Henrique Vuolo</a> 🧔</h4>
